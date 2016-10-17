@@ -1,6 +1,6 @@
 {
   "name": "Factorial function Winsock Server",
   "tagline": "A sever implemented in winsock2.h that responds by giving factorial of a number sent to it",
-  "body": "# Winsock Server for responding factorial\r\nA sever implemented in winsock2.h that responds by giving factorial of a number sent to it\r\n\r\n# Usage\r\nOpen up the Visual Studio\r\nMake a console program with the contents\r\nRun the program\r\n\r\n# Instruction\r\nYou can use Telnet client, start the Telnet client\r\nwrite \"open 127.0.0.1 8888\" ( Replace 127.0.0.1 with the computer ip running the program )\r\nwrite \"5=\"\r\nThe server will respond by giving result \"120\"\r\n",
+  "body": "# Winsock Server for responding factorial\r\nA sever implemented in winsock2.h that responds by giving factorial of a number sent to it\r\n\r\n# Usage\r\nOpen up the Visual Studio<br/>\r\nMake a console program with the contents<br/>\r\nRun the program<br/>\r\n\r\n# Instruction\r\nYou can use Telnet client, start the Telnet client<br/>\r\nwrite \"open 127.0.0.1 8888\" ( Replace 127.0.0.1 with the computer ip running the program )<br/>\r\nwrite \"5=\"<br/>\r\nThe server will respond by giving result \"120\"<br/>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
